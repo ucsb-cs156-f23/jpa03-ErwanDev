@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# ErwanDev-jpa03
 
 Running at: https://jpa03-erwandev.dokku-05.cs.ucsb.edu/
 
